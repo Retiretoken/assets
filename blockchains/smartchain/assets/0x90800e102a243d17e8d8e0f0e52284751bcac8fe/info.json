@@ -1,0 +1,9 @@
+  "name": "Retire Token",
+    "website": "https://www.retiretoken.finance",
+    "description": "Retire is a low supply, high rewards token on BSC network.",
+    "explorer": "https://bscscan.com/token/0x90800e102a243d17e8d8e0f0e52284751bcac8fe",
+    "type": "BEP20",
+    "symbol": "Retire",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x90800e102a243d17e8d8e0f0e52284751bcac8fe"
